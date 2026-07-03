@@ -98,14 +98,17 @@ This report helps answer questions like:
 
 ## 📈 Sales Reports
 
-- 📄 [Customer Performance Report](Reports/customer-performance-report.pdf)
-- 📄 [Market Performance vs Sales Target](Reports/market-performance-vs-target.pdf)
+- 📄 [Customer Performance Report](Reports/Customer%20Performance%20Report.pdf)
+
+- 📄 [Market Performance vs Target Report](Reports/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ## 💰 Finance Reports
 
-- 📄 [Profit & Loss by Fiscal Year](Reports/profit-loss-fiscal-year.pdf)
-- 📄 [Profit & Loss by Month](Reports/profit-loss-month.pdf)
-- 📄 [Profit & Loss by Market](Reports/profit-loss-market.pdf)
+- 📄 [P&L Statement by Fiscal Year](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+
+- 📄 [P&L Statement by Months](Reports/P%26L%20Statement%20by%20Months.pdf)
+
+- 📄 [P&L Statement by Markets](Reports/P%26L%20Statement%20by%20Markets.pdf)
 
 ---
 
