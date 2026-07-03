@@ -1,42 +1,51 @@
-# 📊 Excel Sales & Finance Analytics
+# Excel Sales & Finance Analytics
 
-> Transforming raw sales and finance data into meaningful business insights using Microsoft Excel, Power Query, Power Pivot, and DAX.
-
----
-
-# 📌 Project Overview
-
-This project demonstrates how raw sales and finance data can be transformed into meaningful business insights using **Microsoft Excel**.
-
-The objective of this project is to build interactive business reports that help stakeholders monitor business performance, track Key Performance Indicators (KPIs), and make data-driven decisions.
-
-The project leverages **Power Query**, **Power Pivot**, and **DAX** to perform data cleaning, modeling, analysis, and reporting.
+Sales and Finance Analytics project built using **Microsoft Excel**, **Power Query**, **Power Pivot**, and **DAX** to transform raw business data into meaningful insights and support better business decisions.
 
 ---
 
-# 🎯 Business Problems Solved
+## Project Overview
 
-## 📈 Sales Analytics
+This project demonstrates how Microsoft Excel can be used to clean, transform, model, and analyze business data to create professional Sales and Finance reports.
 
-This report helps answer important business questions such as:
+The project combines Power Query, Power Pivot, and DAX to convert raw transactional data into reports that help stakeholders monitor business performance and make informed decisions.
+
+---
+
+## Reports
+
+### Sales Reports
+
+- [Customer Performance Report](Reports/Customer%20Performance%20Report.pdf)
+- [Market Performance vs Target Report](Reports/Market%20Performance%20vs%20Target%20Report.pdf)
+
+### Finance Reports
+
+- [P&L Statement by Fiscal Year](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+- [P&L Statement by Months](Reports/P%26L%20Statement%20by%20Months.pdf)
+- [P&L Statement by Markets](Reports/P%26L%20Statement%20by%20Markets.pdf)
+
+---
+
+## Business Questions
+
+### Sales Analysis
 
 - Which customers generate the highest sales?
 - Which markets are meeting or missing sales targets?
-- Which customers should the business focus on?
-- How is sales performance changing over time?
+- Which customers contribute the most to business growth?
+- How has sales performance changed over time?
 
-## 💰 Finance Analytics
+### Finance Analysis
 
-This report helps answer questions like:
-
-- How is the company performing financially?
-- What is the Profit & Loss by Fiscal Year?
-- How does profitability change across different markets?
-- How can financial performance support future business planning?
+- How is the company's financial performance changing over time?
+- What are the Profit & Loss trends across fiscal years?
+- Which markets contribute the most to profitability?
+- How can financial insights support better business planning?
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 - Net Sales
 - Gross Margin
@@ -49,7 +58,7 @@ This report helps answer questions like:
 
 ---
 
-# 🛠️ Tools & Technologies
+## Tools Used
 
 - Microsoft Excel
 - Power Query
@@ -61,23 +70,23 @@ This report helps answer questions like:
 
 ---
 
-# 💡 Skills Demonstrated
+## Skills Demonstrated
 
-## 📂 Data Preparation
+### Data Preparation
 
 - ETL (Extract, Transform, Load)
 - Data Cleaning
 - Data Transformation
 - Data Validation
 
-## 🔗 Data Modeling
+### Data Modeling
 
 - Building Relationships
 - Date Table Creation
 - Fiscal Calendar
 - Data Model Design
 
-## 📈 Data Analysis
+### Data Analysis
 
 - KPI Analysis
 - Sales Analytics
@@ -85,89 +94,56 @@ This report helps answer questions like:
 - DAX Measures
 - Trend Analysis
 
-## 📊 Dashboard Development
+### Reporting
 
-- Interactive Dashboards
+- Dashboard Design
 - Executive Reporting
-- Business Insights
+- Business Reporting
 - Data Visualization
 
 ---
 
-# 📑 Reports Included
+## Business Value
 
-## 📈 Sales Reports
-
-- 📄 [Customer Performance Report](Reports/Customer%20Performance%20Report.pdf)
-
-- 📄 [Market Performance vs Target Report](Reports/Market%20Performance%20vs%20Target%20Report.pdf)
-
-## 💰 Finance Reports
-
-- 📄 [P&L Statement by Fiscal Year](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-
-- 📄 [P&L Statement by Months](Reports/P%26L%20Statement%20by%20Months.pdf)
-
-- 📄 [P&L Statement by Markets](Reports/P%26L%20Statement%20by%20Markets.pdf)
-
----
-
-# 💼 Business Value
-
-This project enables business users to:
+This project helps business users to:
 
 - Monitor customer and market performance.
 - Compare actual sales against sales targets.
-- Track important business KPIs.
-- Analyze Profit & Loss across multiple dimensions.
-- Support strategic business decisions using data-driven insights.
+- Track key business KPIs.
+- Analyze Profit & Loss across different dimensions.
+- Support data-driven business decisions.
 
 ---
 
-# 📈 Business Insights
-
-Some of the key insights identified from this analysis include:
-
-- Customer performance varies significantly across different markets.
-- Comparing actual sales against targets helps identify underperforming regions.
-- Profit & Loss analysis provides better visibility into business profitability.
-- Interactive dashboards enable faster business decision-making through KPI monitoring.
-
----
-
-# 📚 What I Learned
+## Key Learnings
 
 Through this project, I strengthened my understanding of:
 
 - Sales Analytics
 - Financial Reporting
-- Business KPIs
+- KPI Analysis
 - Power Query
 - Power Pivot
 - DAX
+- Data Modeling
 - Dashboard Design
 - Business Reporting
-- Data Modeling
-- Business Decision-Making
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I'm **Bibin Abraham**, a Project Management professional with **4 years of experience** and a growing focus on **Data Analytics**, **Business Intelligence**, and **Dashboard Development**.
+I'm **Bibin Abraham**, a Project Management professional with **4 years of experience** and a growing interest in **Data Analytics** and **Business Intelligence**.
 
-Currently building expertise in:
+I'm currently building expertise in:
 
 - Microsoft Excel
 - SQL
 - Power BI
 - Python
-- AI for Business Analytics
 
-My goal is to leverage Project Management experience together with Data Analytics to deliver data-driven business solutions that improve business decision-making.
+My goal is to combine Project Management and Data Analytics to build practical business solutions that support better decision-making.
 
 ---
 
-⭐ Thank you for visiting my repository.
-
-If you found this project interesting, feel free to explore my other repositories as I continue documenting my journey in Data Analytics.
+Thank you for visiting this repository. I'm continuously building projects to strengthen my skills in Business Analytics, Data Visualization, and Business Intelligence.
