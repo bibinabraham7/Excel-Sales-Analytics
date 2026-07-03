@@ -12,7 +12,7 @@ The project combines Power Query, Power Pivot, and DAX to convert raw transactio
 
 ---
 
-## Reports
+## Project Reports
 
 ### Sales Reports
 
