@@ -1,22 +1,22 @@
-# Excel Sales & Finance Analytics
+# 📊 Excel Sales & Finance Analytics
 
-> Transforming raw business data into meaningful insights using Microsoft Excel, Power Query, Power Pivot, and DAX.
+> Transforming raw sales and finance data into meaningful business insights using Microsoft Excel, Power Query, Power Pivot, and DAX.
 
 ---
 
-# Project Overview
+# 📌 Project Overview
 
 This project demonstrates how raw sales and finance data can be transformed into meaningful business insights using **Microsoft Excel**.
 
-The objective of this project is to build interactive business reports that help stakeholders monitor performance, track Key Performance Indicators (KPIs), and support data-driven decision-making.
+The objective of this project is to build interactive business reports that help stakeholders monitor business performance, track Key Performance Indicators (KPIs), and make data-driven decisions.
 
-The project focuses on applying Excel's advanced analytics capabilities, including **Power Query**, **Power Pivot**, and **DAX**, to solve real-world business reporting problems.
+The project leverages **Power Query**, **Power Pivot**, and **DAX** to perform data cleaning, modeling, analysis, and reporting.
 
 ---
 
-# Business Problems Solved
+# 🎯 Business Problems Solved
 
-## Sales Analytics
+## 📈 Sales Analytics
 
 This report helps answer important business questions such as:
 
@@ -25,7 +25,7 @@ This report helps answer important business questions such as:
 - Which customers should the business focus on?
 - How is sales performance changing over time?
 
-## Finance Analytics
+## 💰 Finance Analytics
 
 This report helps answer questions like:
 
@@ -36,7 +36,7 @@ This report helps answer questions like:
 
 ---
 
-# Key Performance Indicators (KPIs)
+# 📊 Key Performance Indicators (KPIs)
 
 - Net Sales
 - Gross Margin
@@ -49,7 +49,7 @@ This report helps answer questions like:
 
 ---
 
-# Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Power Query
@@ -61,23 +61,23 @@ This report helps answer questions like:
 
 ---
 
-# Skills Demonstrated
+# 💡 Skills Demonstrated
 
-## Data Preparation
+## 📂 Data Preparation
 
 - ETL (Extract, Transform, Load)
 - Data Cleaning
 - Data Transformation
 - Data Validation
 
-## Data Modeling
+## 🔗 Data Modeling
 
 - Building Relationships
 - Date Table Creation
 - Fiscal Calendar
 - Data Model Design
 
-## Data Analysis
+## 📈 Data Analysis
 
 - KPI Analysis
 - Sales Analytics
@@ -85,7 +85,7 @@ This report helps answer questions like:
 - DAX Measures
 - Trend Analysis
 
-## Dashboard Development
+## 📊 Dashboard Development
 
 - Interactive Dashboards
 - Executive Reporting
@@ -94,34 +94,45 @@ This report helps answer questions like:
 
 ---
 
-# Reports Included
+# 📑 Reports Included
 
-## Sales Reports
+## 📈 Sales Reports
 
-- Customer Performance Report
-- Market Performance vs Sales Target
+- 📄 [Customer Performance Report](Reports/customer-performance-report.pdf)
+- 📄 [Market Performance vs Sales Target](Reports/market-performance-vs-target.pdf)
 
-## Finance Reports
+## 💰 Finance Reports
 
-- Profit & Loss by Fiscal Year
-- Profit & Loss by Month
-- Profit & Loss by Market
+- 📄 [Profit & Loss by Fiscal Year](Reports/profit-loss-fiscal-year.pdf)
+- 📄 [Profit & Loss by Month](Reports/profit-loss-month.pdf)
+- 📄 [Profit & Loss by Market](Reports/profit-loss-market.pdf)
 
 ---
 
-# Business Value
+# 💼 Business Value
 
 This project enables business users to:
 
 - Monitor customer and market performance.
-- Compare actual sales against targets.
+- Compare actual sales against sales targets.
 - Track important business KPIs.
 - Analyze Profit & Loss across multiple dimensions.
 - Support strategic business decisions using data-driven insights.
 
 ---
 
-# What I Learned
+# 📈 Business Insights
+
+Some of the key insights identified from this analysis include:
+
+- Customer performance varies significantly across different markets.
+- Comparing actual sales against targets helps identify underperforming regions.
+- Profit & Loss analysis provides better visibility into business profitability.
+- Interactive dashboards enable faster business decision-making through KPI monitoring.
+
+---
+
+# 📚 What I Learned
 
 Through this project, I strengthened my understanding of:
 
@@ -138,18 +149,7 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-# Future Improvements
-
-As I continue learning Data Analytics, I plan to enhance this project by:
-
-- Building an interactive Power BI version of the dashboard.
-- Writing SQL queries for deeper business analysis.
-- Automating data preparation using Python.
-- Creating executive-level dashboards with advanced KPIs.
-
----
-
-# About Me
+# 👨‍💻 About Me
 
 I'm **Bibin Abraham**, a Project Management professional with **4 years of experience** and a growing focus on **Data Analytics**, **Business Intelligence**, and **Dashboard Development**.
 
@@ -161,10 +161,10 @@ Currently building expertise in:
 - Python
 - AI for Business Analytics
 
-My goal is to combine **Project Management** and **Data Analytics** to deliver data-driven business solutions that improve decision-making.
+My goal is to leverage Project Management experience together with Data Analytics to deliver data-driven business solutions that improve business decision-making.
 
 ---
 
-Thank you for visiting my repository.
+⭐ Thank you for visiting my repository.
 
 If you found this project interesting, feel free to explore my other repositories as I continue documenting my journey in Data Analytics.
